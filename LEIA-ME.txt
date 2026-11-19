@@ -1,0 +1,37 @@
+PORTFÓLIO — STEFANI CRISTINA
+
+ARQUIVOS
+- index.html: estrutura e conteúdo do site.
+- style.css: identidade visual rosa #D96AA5, preto, malva e dourado; layout responsivo.
+- script.js: menu para celular, ano automático e destaque de seção.
+
+COMO VISUALIZAR NO VS CODE
+1. Extraia o ZIP para uma pasta no computador.
+2. No VS Code, escolha File > Open Folder (Arquivo > Abrir Pasta).
+3. Selecione a pasta stefani-portfolio.
+4. Abra o arquivo index.html.
+5. Para visualizar, clique com o botão direito em index.html e escolha "Open with Live Server" se a extensão Live Server estiver instalada.
+   Se não tiver, abra a pasta no Explorador de Arquivos e dê duplo clique em index.html.
+
+COMO PUBLICAR NO GITHUB PAGES
+1. Abra o repositório beltramestefani041-prog/beltramestefani041-prog no GitHub.
+2. Clique em Add file > Upload files.
+3. Envie index.html, style.css e script.js (os três arquivos devem ficar na raiz do repositório, junto do README.md).
+4. Clique em Commit changes.
+5. Abra Settings > Pages.
+6. Em Build and deployment, escolha Deploy from a branch.
+7. Selecione a branch main e a pasta /(root), depois clique em Save.
+8. Aguarde a publicação e acesse: https://beltramestefani041-prog.github.io/beltramestefani041-prog/
+
+OBSERVAÇÕES
+- O site usa Google Fonts para Libre Baskerville e DM Sans. Se estiver sem internet, o navegador usará fontes alternativas.
+- A foto de perfil usa o avatar público do GitHub. Ela pode ser trocada depois por uma imagem escolhida por você.
+- O link do LinkedIn foi preenchido com o endereço informado anteriormente.
+- Os cards apontam para a lista de repositórios do GitHub até que cada projeto tenha seu próprio repositório público.
+- Revise os textos de tecnologias e conquistas para manter o portfólio alinhado ao que você deseja apresentar.
+
+
+CONQUISTAS ATUALIZADAS
+- 1º lugar: Inova Comércio (Semana Tecnológica).
+- 2º lugar: Velary (Semana Tecnológica).
+- 3º lugar: Geoly (Semana Tecnológica).
