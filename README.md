@@ -8,14 +8,14 @@ Desenvolvimento, tecnologia e inovação com propósito.
 
 [![Portfólio](https://img.shields.io/badge/MEU_PORTFÓLIO-D96AA5?style=for-the-badge&logo=githubpages&logoColor=white)](https://beltramestefani041-prog.github.io/beltramestefani041-prog/)
 [![GitHub](https://img.shields.io/badge/GITHUB-17121D?style=for-the-badge&logo=github&logoColor=D96AA5)](https://github.com/beltramestefani041-prog)
-
+https://beltramestefani041-prog.github.io/beltramestefani041-prog/
 </div>
 
 ---
 
 ## ♡ SOBRE MIM
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) pelo Senac-PR** e desenvolvedora em formação, com interesse em desenvolvimento de software, tecnologia e inovação.
+Estudante de ADS | Desenvolvimento de software, tecnologia e inovação. Experiência acadêmica com projetos, programação e bancos de dados.
 
 Minha trajetória é construída por meio de projetos práticos que envolvem programação, desenvolvimento web, modelagem de bancos de dados, análise de requisitos e prototipação de interfaces.
 
