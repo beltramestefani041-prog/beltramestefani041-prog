@@ -7,8 +7,8 @@
 Desenvolvimento, tecnologia e inovação com propósito.
 
 [![Portfólio](https://img.shields.io/badge/MEU_PORTFÓLIO-D96AA5?style=for-the-badge&logo=githubpages&logoColor=white)](https://beltramestefani041-prog.github.io/beltramestefani041-prog/)
-[![GitHub](https://img.shields.io/badge/GITHUB-17121D?style=for-the-badge&logo=github&logoColor=D96AA5)](https://github.com/beltramestefani041-prog)
-https://beltramestefani041-prog.github.io/beltramestefani041-prog/
+[![GitHub](https://img.shields.io/badge/GITHUB-17121D?style=for-the-badge&logo=github&logoColor=D96AA5)(https://github.com/beltramestefani041-prog)
+https://beltramestefani041-prog.github.io/beltramestefani041-prog/]
 </div>
 
 ---
