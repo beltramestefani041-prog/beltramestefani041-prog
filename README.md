@@ -11,7 +11,6 @@ Desenvolvimento, tecnologia e inovação com propósito.
 
 [![MEU PORTFÓLIO](https://img.shields.io/badge/MEU_PORTFÓLIO-D96AA5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beltramestefani041-prog.github.io/beltramestefani041-prog/)
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-17121D?style=for-the-badge&logo=github&logoColor=D96AA5)](https://github.com/beltramestefani041-prog)
 
 </div>
 
